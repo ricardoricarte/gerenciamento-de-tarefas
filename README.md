@@ -36,16 +36,6 @@
 
 <br>
 
-## 📌About
-
-<div>
-    <p align="center">
-    API-REST de gerenciamento de tarefas, analise de código com SonarQube e deploy realizado na AWS EC2!
-    </p>
-</div>
-
-<br>
-
 ## 🚀Features
 
 - Criar, Editar e Apagar (Pessoa, Tarefa e Departamento)
@@ -117,15 +107,6 @@ docker-compose up
 - Observações:
     - O Compose é uma ferramenta para definir e executar aplicativos Docker de vários contêineres. Com o Compose, você usa um arquivo YAML para configurar os serviços do seu aplicativo. Então, com um único comando, você cria e inicia todos os serviços da sua configuração. <a href="https://docs.docker.com/compose/reference/up/">(Veja sobre docker-compose up)</a> 
 
-
-
-<br>
-
-## 🎮Getting Started
-- Abra o navegador e entre no seguinte link: http://localhost:8080
-    - O link acima irá abrir o Swagger do projeto em questão!
-
-<br>
 
 ## 📁PostgreSQL
 **Para utilizar o banco de dados siga os seguintes passos**
