@@ -87,7 +87,7 @@
 
 ### 1. Clone this repository
 ```
-git clone https://github.com/ricardoricarte
+https://github.com/ricardoricarte/gerenciamento-de-tarefas.git
 ```
 ---
 
