@@ -34,11 +34,11 @@ public class SwaggerConfig {
 	public static ApiInfo metadata() {
 		return new ApiInfoBuilder().title("Gerenciador de Tarefas")
 				.description("API de gerenciamento de tarefas").version("1.0.0").license("Apache License Version 2.0")
-				.licenseUrl("https://github.com/11Victor").contact(contact()).build();
+				.licenseUrl("https://github.com/ricardoricarte").contact(contact()).build();
 	}
 
 	private static Contact contact() {
-		return new Contact("Victor Valencio", "https://github.com/11Victor", "valencioalcantara@outlook.com");
+		return new Contact("Jose Ricardo", "https://github.com/ricardoricarte", "dev.ricarte@gmail.com");
 	}
 
 	private static List<Response> responseMessage() {
